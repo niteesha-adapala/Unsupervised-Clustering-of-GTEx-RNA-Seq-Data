@@ -1,7 +1,7 @@
 
 ## 🧬 Unsupervised Clustering of Human Tissue Samples (GTEx RNA-Seq)
 
-This project applies unsupervised machine learning techniques to bulk RNA-Seq data from the [GTEx Project](https://gtexportal.org/), aiming to identify biologically meaningful clusters of human tissue samples based solely on gene expression profiles—without using any label information during training.
+This project applies unsupervised machine learning techniques to bulk RNA-Seq data from the [GTEx Project](https://gtexportal.org/), aiming to identify biologically meaningful clusters of human tissue samples based solely on gene expression profiles, without using any label information during training.
 
 ### 📊 Dataset
 
