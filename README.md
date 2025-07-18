@@ -37,5 +37,5 @@ This project applies unsupervised machine learning techniques to bulk RNA-Seq da
 
 * Python (NumPy, pandas, scikit-learn, seaborn, matplotlib)
 * Machine Learning: PCA, K-Means, GMM, DBSCAN
-* Visualization: UMAP, t-SNE, heatmaps
+* Visualization: Cluster Purity, Comfusion Matrix, UMAP, t-SNE
 
